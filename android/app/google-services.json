@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861306810038",
+    "project_id": "toku-app-9bf69",
+    "storage_bucket": "toku-app-9bf69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861306810038:android:ae78160a9b53a6c1334017",
+        "android_client_info": {
+          "package_name": "com.example.toku_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcRLlB9tA7iCkKF5lcuEThc00YluSNL5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

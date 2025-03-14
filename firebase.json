@@ -1,0 +1,33 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "toku-app-9bf69",
+          "appId": "1:861306810038:android:ae78160a9b53a6c1334017",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "toku-app-9bf69",
+          "configurations": {
+            "android": "1:861306810038:android:ae78160a9b53a6c1334017",
+            "ios": "1:861306810038:ios:575f0ee5fbda2ac4334017",
+            "macos": "1:861306810038:ios:575f0ee5fbda2ac4334017",
+            "web": "1:861306810038:web:71eeff9d163357c9334017",
+            "windows": "1:861306810038:web:14d74e20ed5ee956334017"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build\\web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
