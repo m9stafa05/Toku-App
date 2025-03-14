@@ -1,13 +1,5 @@
 HEAD
 
-HEAD
-
-# Toku-App
-
-Application to Learn Basics in Japanese
-
-e2c289f (Resolve errors)
-
 # toku_app
 
 A new Flutter project.
